@@ -1,6 +1,6 @@
 # ormlib
 
-Automatically exported from [Google code](https://code.google.com/p/ormlib)
+Automatically exported from [Google code](https://code.google.com/p/ormlib).
 
 ORM Library for Delphi XE2 (or high).
 
